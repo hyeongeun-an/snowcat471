@@ -31,7 +31,7 @@
 <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white"/></a>
 
-<h3>ETC</h3>
+<h3>Stats</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowcat471&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
