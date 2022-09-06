@@ -24,6 +24,7 @@
 <a><img src="https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=Helm&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=Terraform&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Ansible-EE0000?style=plastic&logo=Ansible&logoColor=white"/></a>
+<br>
 <a><img src="https://img.shields.io/badge/Argo-EF7B4D?style=plastic&logo=Argo&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Istio-466BB0?style=plastic&logo=Istio&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=plastic&logo=Apache%20Kafka&logoColor=white"/></a>
@@ -31,3 +32,7 @@
 <a><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=plastic&logo=Spring%20Boot&logoColor=white"/></a>
 
 <h3>ETC</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowcat471&langs_count=8)](https://github.com/snowcat471/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowcat471&show_icons=true&theme=radical)
