@@ -33,7 +33,7 @@
 
 <h3>ETC</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowcat471&langs_count=8)](https://github.com/snowcat471/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowcat471&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snowcat471&show_icons=true&theme=tokyonight)
 
