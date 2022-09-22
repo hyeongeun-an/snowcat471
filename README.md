@@ -33,7 +33,7 @@
 
 <h2>Activities</h2>
 
-<h3>Cloud Clud 2기</h3>
+<h3>Cloud Club 2기</h3>
 
 홈페이지 : https://cloudclub.oopy.io/ <br>
 2기 활동 개인 repository : https://github.com/snowcat471/cloud-club-2 <br>
