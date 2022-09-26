@@ -24,7 +24,6 @@
 <a><img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=Helm&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=Ansible&logoColor=white"/></a>
-<br>
 <a><img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=Argo&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Istio-466BB0?style=flat&logo=Istio&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white"/></a>
