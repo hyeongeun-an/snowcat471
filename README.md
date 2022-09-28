@@ -20,6 +20,7 @@
 <h2>Studying</h2>
 
 <a><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Crystal-000000?style=flat&logo=Crystal&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=Helm&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=Terraform&logoColor=white"/></a>
